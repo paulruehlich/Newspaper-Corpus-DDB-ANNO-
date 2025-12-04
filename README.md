@@ -153,9 +153,11 @@ DDB/
 7. Execution Notes
    
   API keys must be exported before running DDB scripts:
+  
       export DDB_API_KEY="YOUR_KEY"
 
   Proxy credentials must be exported before running ANNO scraping:
+      
       export DECODO_USER="…"
       export DECODO_PASS="…"
 
